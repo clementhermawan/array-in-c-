@@ -1,6 +1,14 @@
 # Array in c++
 Project ini di buat oleh [*kelompok 4*](https://production.listennotes.com/podcasts/kelompok-4-dIpLGg96M_U-sXnJSNM1B8A.1400x1400.jpg)
 
+
+
+| nama anggota | yang sudah di lakukan |
+|-------------|------------------------|
+| *adrian*       | `Mengurus Codingan`
+| *kristian*    | `mengurus Codingan`
+| *clement*     | `Mengurus upload GitLab dan Github`
+| *fachry*      | `Mengurus gambar`
 ## CODE
 ```sh
 //array adalah sebuah variabel yang menampung beberapa data di dalam 1 tipe data
@@ -101,12 +109,17 @@ dan kalian sudah bisa mengedit code nya...
 >note:`Dilarang Keras Menjual Code Tanpa Seijin Dari Pemilik!`
 
 _CODE BY KELOMPOK 4_
+                                © 2020 kelompok4
 ## Nama anggota kelompok
 - Adrian
 - Clement
 - Kristian
 - Fachry
 
-
+```sh
+ ✨ gambar by Fachry  ✨
+ ✨codingan by kristian x adrian  ✨
+ ✨ share in github and gitlab by clement  ✨
+```
 
 
